@@ -1,0 +1,21 @@
+{
+  "name": "material-design-icons-api",
+  "version": "1.0.0",
+  "description": "Provides icons from material design",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "material-icons"
+  ],
+  "author": "dcoder",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
